@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name":"Claudeilton Dantas",
+    "occupation":"Desenvolvedor Javascript/Typescript, Node.js, React/React-native",
+    "description":"Ciência da Computação| Tecnologia da Informação| MCSA | ITIL® Foundation",
+    "image":"profilepic.jpeg",
+    "bio":"Entusiasta de computação, desenvolvo soluções web usando o poder das linguagens de programação, busco desafios, acredito no poder da educação, foco na criatividade na área de tecnologia, adoro ler, um positivista, otimista e especialista em pensar fora da caixa, programando e desenvolvendo ideias com a Stack JS: ReactJS, React-Native, Node.js, TypeScript, TypeORM, Knex.js, DB: MySQL, PostegreSQL, NoSQl: ArangoDB, MongoDB, SQLlite, sistemas operacionais: Windows e Linux, Docker, Kubernets, conhecimento em computação em nuvem com AWS, GCP.",
+    "contactmessage":"Caso deseje falar sobre projetos ou desenvolvimento web/mobile com o JS/TS.",
+    "email": "fcd007@hotmail.com",
+    "phone": "+55 84 9.9194-8734",
+    "address":{
+      "street":"Rua Pedro José Soares de Macedo, 517, Vista Bela",
+      "city":"Assu",
+      "state":"Rio Grande do Norte",
+      "zip": "59.650-000"
+    },
+    "website": "https://cdantas.com.br",
+    "resumedownload":"https://drive.google.com/file/d/1HYy6ntm5vJK9robF--e-YqQkN6C4L6Ge/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/claudeilton-dantas-06889190/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/Claudeilton2",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/fcd007",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Dev Javascript/typescript, Node.js, React/React-native | Ciência da Computação| Tecnologia da Informação| MCSA | ITIL® Foundation",
+    "education":[
+      {
+        "school":"Graduação:",
+        "degree":"Universidade Federal do Semi-Árido - UFERSA",
+        "graduated":"Dezembro/2020",
+        "description":"Linguagens: C++, Java, Javascript, Análise Orientada a Objetos, levantamento de requisitos, UML, desenvolvimento de Software Básicos e Aplicativos, sistemas distribuídos/multimídia, segurança computacional, Blockchain, solução de interação entre usuário e sistemas"
+      },
+      {
+        "school":"Tecnológo",
+        "degree":"Universidade Federal do Rio Grande do Norte/IMD",
+        "graduated":"Setembro/2016",
+        "description":"Desenvolvimento de sistemas web e dispositivos móveis, criação de interfaces e aplicativos de comércio e marketing eletrônico, desenvolvimento, manutenção de sites e portais na Internet e na Intranet"
+      }
+    ],
+    "work":[
+      {
+        "company":"Colégio Mater Christi - Mossoró-Rio Grande do Norte",
+        "title":"Desenvolvedor Javascript / fullstack ",
+        "years":"Julho/2019 - Presente",
+        "description":"Análise e requisitos de sistemas, experiência do usuário UX/UX, gerenciamento de projetos metodologia ágil, Scrum, administrador Linux, computação em nuvem Google Cloud - GCP, Docker, Kubernets, desenvolvimento Web HTML, CSS, JS, ReactJS, Vue.js, Angular 2+, WordPress, linguagens: JavaScript/TypeScript, Java, PHP, APIs Restful Node.js, ExpressJs, Axios, Cors, mobile: React-Native, banco de dados: MySQL, PostegreSQL, NoSQl: ArangoDB, MongoDB, Redis, SQLlite, TypeORM, Knex.js."
+      },
+      {
+        "company":"Lampp-IT",
+        "title":"Técnico de suporte de tecnologia da informação",
+        "years":"Setembro/2017 - Julho/2019",
+        "description":"Suporte ao usuário, suporte remoto Microsoft Remote Desktop, gerenciamento de incidentes e solicitações de software e hardware (desktop ou laptop), suporte de rede: Wifi, com fio, VPN, suporte ao Windows 7, 10, monitoramento de ativos de impressão e gerenciamento de ativos, suporte corretivo e preventivo para problemas de aplicativos relacionados ao cliente."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"90%"
+      },
+      {
+        "name":"Typescript",
+        "level":"85%"
+      },
+      {
+        "name":"Node.js",
+        "level":"80%"
+      },
+      {
+        "name":"Blockchain/Ethereum",
+        "level":"60%"
+      },
+      {
+        "name":"Express",
+        "level":"90%"
+      },
+      {
+        "name":"Restify",
+        "level":"70%"
+      },
+      {
+        "name":"UX/UI",
+        "level":"90%"
+      },
+      {
+        "name":"Figma/Adobe-XD",
+        "level":"100%"
+      },
+      {
+        "name":"ReactJS/Native",
+        "level":"80%"
+      },
+      {
+        "name":"Wordpress",
+        "level":"80%"
+      },
+      {
+        "name":"Vuejs",
+        "level":"60%"
+      },
+      {
+        "name":"Linux/Shell",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"PostgreSQL",
+        "level":"90%"
+      },
+      {
+        "name":"MySQL",
+        "level":"90%"
+      },
+      {
+        "name":"GCP",
+        "level":"80%"
+      },
+      {
+        "name":"AWS",
+        "level":"60%"
+      }
+    ]
+  }
+}
