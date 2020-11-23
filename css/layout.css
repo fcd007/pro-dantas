@@ -2,7 +2,7 @@
 =====================================================================
 *   Ceevee v1.0 Layout Stylesheet
 *   url: styleshout.com
-*   03-18-2014
+*
 =====================================================================
 
    TOC:
@@ -66,7 +66,7 @@ header .banner-text h1 {
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #A8A8A8;
+   color: #b6e6fc;
    margin: 0 auto;
    width: 70%;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
@@ -203,7 +203,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #eceaea;
 }
 #about .profile-pic {
    position: relative;
@@ -267,7 +267,7 @@ ul#nav li.current a { color: #F06000; }
    border-bottom: 1px solid #E8E8E8;
 }
 #resume .info {
-   font: 16px/24px 'librebaskerville-italic', serif;
+   font: 18px/24px 'librebaskerville-italic', serif;
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
@@ -277,7 +277,7 @@ ul#nav li.current a { color: #F06000; }
    margin-left: 5px;
 }
 #resume .date {
-   font: 15px/24px 'opensans-regular', sans-serif;
+   font: 16px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
 
@@ -318,7 +318,7 @@ ul#nav li.current a { color: #F06000; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+  	background: #03b8a9;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
@@ -422,7 +422,7 @@ ul#nav li.current a { color: #F06000; }
    padding-bottom: 60px;
 }
 #portfolio h1 {
-   font: 15px/24px 'opensans-semibold', sans-serif;
+   font: 18px/24px 'opensans-semibold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
    text-align: center;
@@ -797,7 +797,7 @@ call-to-action .button {
    background: #191919;
    padding-top: 96px;
    padding-bottom: 102px;
-   color: #636363;
+   color: #eceaea;
 }
 #contact .section-head { margin-bottom: 42px; }
 
@@ -838,7 +838,7 @@ call-to-action .button {
 /* contact form */
 #contact form { margin-bottom: 30px; }
 #contact label {
-   font: 15px/24px 'opensans-bold', sans-serif;
+   font: 18px/24px 'opensans-bold', sans-serif;
    margin: 12px 0;
    color: #EBEEEE;
 	display: inline-block;
@@ -854,7 +854,7 @@ call-to-action .button {
 	margin-bottom: 42px;
 	border: 0;
 	outline: none;
-   font-size: 15px;
+   font-size: 16px;
    line-height: 24px;
    width: 65%;
 }
@@ -921,7 +921,7 @@ call-to-action .button {
 }
 #twitter li b a {
    font: 13px/36px 'opensans-regular', Sans-serif;
-   color: #474747 !important;
+   color: #979797 !important;
    border: none;
 }
 
@@ -933,14 +933,14 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
-   font-size: 14px;
+   color: #eceaea;
+   font-size: 16px;
    text-align: center;
    position: relative;
 }
 
-footer a, footer a:visited { color: #525252; }
-footer a:hover, footer a:focus { color: #fff; }
+footer a, footer a:visited { color: #eceaea; }
+footer a:hover, footer a:focus { color: #11ABB0; }
 
 /* copyright */
 footer .copyright {
