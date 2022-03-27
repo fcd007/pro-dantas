@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Claudeilton Dantas",
-    "occupation":"Desenvolvedor Javascript/Typescript, Node.js, React/React-native",
+    "occupation":"Desenvolvedor Web atualmente com Java EE e um pouco de Javascript/Typescript, Node.js, ReactJS",
     "description":"Ciência da Computação| Tecnologia da Informação| MCSA | ITIL® Foundation",
     "image":"profilepic.jpeg",
     "bio":"Entusiasta de computação, desenvolvo soluções web usando o poder das linguagens de programação, busco desafios, acredito no poder da educação, foco na criatividade na área de tecnologia, adoro ler, um positivista, otimista e especialista em pensar fora da caixa, programando e desenvolvendo ideias com a Stack JS: ReactJS, React-Native, Node.js, TypeScript, TypeORM, Knex.js, DB: MySQL, PostegreSQL, NoSQl: ArangoDB, MongoDB, SQLlite, sistemas operacionais: Windows e Linux, Docker, Kubernets, conhecimento em computação em nuvem com AWS, GCP.",
@@ -57,10 +57,16 @@
     ],
     "work":[
       {
+        "company":"Supero Tecnologia com Inteligência - Florianópolis, Santa Catarina",
+        "title":"Desenvolvedor Web Pleno / fullstack Java/JS",
+        "years":"Julho/2019 - Presente",
+        "description":"Desenvolvimento de sistemas Web Java EE, SpringBoot, Hibernate, SQL Server, JS, ReactJS, Bootstrap, Node.js."
+      },
+      {
         "company":"Colégio Mater Christi - Mossoró-Rio Grande do Norte",
         "title":"Desenvolvedor Javascript / fullstack ",
-        "years":"Julho/2019 - Presente",
-        "description":"Análise e requisitos de sistemas, experiência do usuário UX/UX, gerenciamento de projetos metodologia ágil, Scrum, administrador Linux, computação em nuvem Google Cloud - GCP, Docker, Kubernets, desenvolvimento Web HTML, CSS, JS, ReactJS, Vue.js, Angular 2+, WordPress, linguagens: JavaScript/TypeScript, Java, PHP, APIs Restful Node.js, ExpressJs, Axios, Cors, mobile: React-Native, banco de dados: MySQL, PostegreSQL, NoSQl: ArangoDB, MongoDB, Redis, SQLlite, TypeORM, Knex.js."
+        "years":"Julho/2019 - Janeiro/2021",
+        "description":"Análise e requisitos de sistemas, experiência do usuário UX/UX, gerenciamento de projetos metodologia ágil, Scrum, administrador Linux, computação em nuvem Google Cloud - GCP, Docker, Kubernets, desenvolvimento Web HTML, CSS, JS, ReactJS, Vue.js, Angular 2+, WordPress, linguagens: JavaScript/TypeScript, Java, PHP."
       },
       {
         "company":"Lampp-IT",
@@ -71,47 +77,27 @@
     ],
     "skills":[
       {
-        "name":"Javascript",
-        "level":"90%"
+        "name":"JS/TS",
+        "level":"70%"
       },
-      {
-        "name":"Typescript",
-        "level":"85%"
-      },
-      {
+        {
         "name":"Node.js",
-        "level":"80%"
-      },
-      {
-        "name":"Blockchain/Ethereum",
         "level":"60%"
       },
       {
-        "name":"Express",
-        "level":"90%"
+        "name":"Java EE",
+        "level":"65%"
+      },    
+      {
+        "name":"Blockchain/Ethereum",
+        "level":"30%"
       },
       {
-        "name":"Restify",
-        "level":"70%"
-      },
-      {
-        "name":"UX/UI",
-        "level":"90%"
-      },
-      {
-        "name":"Figma/Adobe-XD",
-        "level":"100%"
-      },
-      {
-        "name":"ReactJS/Native",
-        "level":"80%"
+        "name":"ReactJS",
+        "level":"75%"
       },
       {
         "name":"Wordpress",
-        "level":"80%"
-      },
-      {
-        "name":"Vuejs",
         "level":"60%"
       },
       {
@@ -120,23 +106,27 @@
       },
       {
         "name":"MongoDB",
-        "level":"80%"
+        "level":"60%"
+      },
+      {
+        "name":"SQL Server",
+        "level":"60%"
       },
       {
         "name":"PostgreSQL",
-        "level":"90%"
+        "level":"60%"
       },
       {
         "name":"MySQL",
-        "level":"90%"
+        "level":"70%"
       },
       {
         "name":"GCP",
-        "level":"80%"
+        "level":"60%"
       },
       {
         "name":"AWS",
-        "level":"60%"
+        "level":"40%"
       }
     ]
   }
